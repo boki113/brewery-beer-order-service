@@ -1,6 +1,6 @@
 package com.borisperica.beer.order.service.services.beer;
 
-import com.borisperica.beer.order.service.web.model.BeerDto;
+import com.borisperica.brewery.model.BeerDto;
 
 import java.util.Optional;
 import java.util.UUID;

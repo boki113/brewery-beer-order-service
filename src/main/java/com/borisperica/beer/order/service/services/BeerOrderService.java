@@ -18,8 +18,8 @@
 package com.borisperica.beer.order.service.services;
 
 
-import com.borisperica.beer.order.service.web.model.BeerOrderPagedList;
-import com.borisperica.beer.order.service.web.model.BeerOrderDto;
+import com.borisperica.brewery.model.BeerOrderPagedList;
+import com.borisperica.brewery.model.BeerOrderDto;
 import org.springframework.data.domain.Pageable;
 
 import java.util.UUID;
